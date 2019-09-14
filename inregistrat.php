@@ -1,0 +1,1 @@
+<p color="green">Contul a fost creat cu succes! Va fi validat de catre echipa in cel mai scurt timp.</p>

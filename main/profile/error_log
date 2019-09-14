@@ -1,0 +1,2 @@
+[01-Sep-2018 14:00:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uniwebro/public_html/main/profile/includes/config.php on line 14
+[01-Sep-2018 14:10:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uniwebro/public_html/main/profile/includes/config.php on line 14

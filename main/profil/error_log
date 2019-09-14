@@ -1,0 +1,11 @@
+[01-Sep-2018 14:00:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uniwebro/public_html/main/profile/includes/config.php on line 14
+[01-Sep-2018 14:10:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uniwebro/public_html/main/profile/includes/config.php on line 14
+[01-Sep-2018 14:39:13 UTC] PHP Fatal error:  Call to a member function query() on null in /home/uniwebro/public_html/main/profil/index.php on line 5
+[01-Sep-2018 14:47:03 UTC] PHP Fatal error:  Call to a member function query() on null in /home/uniwebro/public_html/main/profil/index.php on line 5
+[01-Sep-2018 14:48:52 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/uniwebro/public_html/main/profil/index.php on line 5
+[01-Sep-2018 14:49:13 UTC] PHP Warning:  require(../../util.connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/main/profil/index.php on line 4
+[01-Sep-2018 14:49:13 UTC] PHP Warning:  require(../../util.connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/main/profil/index.php on line 4
+[01-Sep-2018 14:49:13 UTC] PHP Fatal error:  require(): Failed opening required '../../util.connection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/main/profil/index.php on line 4
+[01-Sep-2018 14:52:33 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/uniwebro/public_html/main/profil/index.php on line 11
+[01-Sep-2018 14:53:43 UTC] PHP Warning:  include_once(includes/menu.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/main/profil/profiles.php on line 56
+[01-Sep-2018 14:53:43 UTC] PHP Warning:  include_once(): Failed opening 'includes/menu.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/main/profil/profiles.php on line 56

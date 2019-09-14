@@ -1,0 +1,432 @@
+[24-Aug-2018 18:43:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/upload.php on line 31
+[24-Aug-2018 18:43:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/upload.php:15) in /home/uniwebro/public_html/upload.php on line 30
+[24-Aug-2018 18:44:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/upload.php:15) in /home/uniwebro/public_html/upload.php on line 30
+[24-Aug-2018 18:56:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/upload.php on line 28
+[24-Aug-2018 18:57:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/upload.php:15) in /home/uniwebro/public_html/upload.php on line 25
+[24-Aug-2018 18:57:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/upload.php:15) in /home/uniwebro/public_html/upload.php on line 25
+[24-Aug-2018 18:57:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/upload.php:15) in /home/uniwebro/public_html/upload.php on line 25
+[24-Aug-2018 19:15:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/upload.php:15) in /home/uniwebro/public_html/upload.php on line 26
+[24-Aug-2018 19:26:00 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/uniwebro/public_html/upload.php on line 20
+[24-Aug-2018 19:32:20 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/uniwebro/public_html/upload.php on line 31
+[24-Aug-2018 19:42:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/upload.php on line 50
+[24-Aug-2018 19:43:02 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/uniwebro/public_html/upload.php on line 20
+[24-Aug-2018 19:43:17 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/uniwebro/public_html/upload.php on line 20
+[24-Aug-2018 19:43:40 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/uniwebro/public_html/upload.php on line 20
+[24-Aug-2018 19:47:14 UTC] PHP Parse error:  syntax error, unexpected 'background' (T_STRING), expecting ',' or ';' in /home/uniwebro/public_html/upload.php on line 33
+[25-Aug-2018 11:09:39 UTC] PHP Warning:  date() expects parameter 2 to be long, string given in /home/uniwebro/public_html/util/config.php on line 18
+[25-Aug-2018 11:10:41 UTC] PHP Parse error:  syntax error, unexpected ''d.m.Y, h:i a'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in /home/uniwebro/public_html/util/config.php on line 18
+[25-Aug-2018 11:17:17 UTC] PHP Parse error:  syntax error, unexpected '" ora"' (T_CONSTANT_ENCAPSED_STRING) in /home/uniwebro/public_html/util/config.php on line 19
+[25-Aug-2018 11:19:49 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 11:20:18 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 11:20:20 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 11:41:31 UTC] PHP Parse error:  syntax error, unexpected 'myHr' (T_STRING), expecting ',' or ';' in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 11:42:02 UTC] PHP Parse error:  syntax error, unexpected 'myHr' (T_STRING), expecting ',' or ';' in /home/uniwebro/public_html/util/config.php on line 25
+[25-Aug-2018 11:42:03 UTC] PHP Parse error:  syntax error, unexpected 'myHr' (T_STRING), expecting ',' or ';' in /home/uniwebro/public_html/util/config.php on line 25
+[25-Aug-2018 14:57:35 Europe/Bucharest] PHP Warning:  getcwd() expects exactly 0 parameters, 1 given in /home/uniwebro/public_html/res/administrare/header.php on line 11
+[25-Aug-2018 12:13:07 UTC] PHP Warning:  include_once(res/administrare/header.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:13:07 UTC] PHP Warning:  include_once(): Failed opening 'res/administrare/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:13:07 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:13:07 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:13:07 UTC] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:16:12 UTC] PHP Warning:  include_once(res/administrare/header.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:16:12 UTC] PHP Warning:  include_once(): Failed opening 'res/administrare/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:16:12 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:16:12 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:16:12 UTC] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:37:00 UTC] PHP Warning:  include_once(res/administrare/header.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:37:00 UTC] PHP Warning:  include_once(): Failed opening 'res/administrare/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:37:00 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:37:00 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:37:00 UTC] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:37:37 UTC] PHP Warning:  include_once(header.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:37:37 UTC] PHP Warning:  include_once(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 6
+[25-Aug-2018 12:37:37 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:37:37 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:37:37 UTC] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:38:25 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:38:25 UTC] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 12:38:25 UTC] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 34
+[25-Aug-2018 15:39:55 Europe/Bucharest] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:39:55 Europe/Bucharest] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:39:55 Europe/Bucharest] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:40:56 Europe/Bucharest] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:40:56 Europe/Bucharest] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:40:56 Europe/Bucharest] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:41:16 Europe/Bucharest] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:41:16 Europe/Bucharest] PHP Warning:  include(res/administrare/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 15:41:16 Europe/Bucharest] PHP Warning:  include(): Failed opening 'res/administrare/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 35
+[25-Aug-2018 13:32:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/uniwebro/public_html/util/config.php on line 26
+[25-Aug-2018 13:32:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/uniwebro/public_html/util/config.php on line 26
+[25-Aug-2018 15:15:04 UTC] PHP Warning:  include(util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 40
+[25-Aug-2018 15:15:04 UTC] PHP Warning:  include(util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 40
+[25-Aug-2018 15:15:04 UTC] PHP Warning:  include(): Failed opening 'util/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 40
+[25-Aug-2018 20:16:18 Europe/Bucharest] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/uniwebro/public_html/util/config.php on line 19
+[25-Aug-2018 20:16:18 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 20:16:34 Europe/Bucharest] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/uniwebro/public_html/util/config.php on line 19
+[25-Aug-2018 20:16:34 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 20:17:19 Europe/Bucharest] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/uniwebro/public_html/util/config.php on line 19
+[25-Aug-2018 20:17:19 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 20:17:35 Europe/Bucharest] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/uniwebro/public_html/util/config.php on line 19
+[25-Aug-2018 20:17:35 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 20
+[25-Aug-2018 20:18:20 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 21
+[25-Aug-2018 20:18:36 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:18:42 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:18:43 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:19:37 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:19:44 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:20:38 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:20:45 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:21:20 Europe/Bucharest] PHP Fatal error:  Call to a member function getTimestamp() on null in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:21:39 Europe/Bucharest] PHP Fatal error:  Call to a member function getTimestamp() on null in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:22:21 Europe/Bucharest] PHP Fatal error:  Call to a member function getTimestamp() on null in /home/uniwebro/public_html/util/config.php on line 22
+[25-Aug-2018 20:22:29 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:22:45 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:23:29 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:24:30 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:25:31 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:26:32 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:27:33 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:28:34 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:29:36 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:30:38 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:31:43 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:32:47 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:33:51 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:34:52 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:35:53 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:36:41 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:36:54 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:37:55 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:38:02 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:38:56 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:39:57 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:40:58 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:41:59 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:43:00 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:44:01 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:45:02 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:46:03 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:47:04 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:48:05 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:49:06 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:50:07 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:51:08 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:52:09 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:53:10 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:54:11 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:55:12 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:56:13 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:57:14 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:58:15 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 20:59:16 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:00:17 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:01:18 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:02:19 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:03:20 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:04:21 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:05:22 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:06:23 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:07:24 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:08:25 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:09:26 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:10:27 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:11:28 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:12:29 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:13:30 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:14:17 Europe/Bucharest] PHP Fatal error:  Class 'IntlDateFormatter' not found in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 21:14:48 Europe/Bucharest] PHP Fatal error:  Call to a member function format() on null in /home/uniwebro/public_html/util/config.php on line 25
+[25-Aug-2018 21:14:59 Europe/Bucharest] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/uniwebro/public_html/util/config.php on line 24
+[25-Aug-2018 18:22:00 UTC] PHP Parse error:  syntax error, unexpected 'strftime' (T_STRING) in /home/uniwebro/public_html/util/config.php on line 23
+[25-Aug-2018 18:22:03 UTC] PHP Parse error:  syntax error, unexpected 'strftime' (T_STRING) in /home/uniwebro/public_html/util/config.php on line 23
+[25-Aug-2018 18:22:04 UTC] PHP Parse error:  syntax error, unexpected 'strftime' (T_STRING) in /home/uniwebro/public_html/util/config.php on line 23
+[25-Aug-2018 18:22:19 UTC] PHP Parse error:  syntax error, unexpected 'strftime' (T_STRING) in /home/uniwebro/public_html/util/config.php on line 23
+[25-Aug-2018 18:24:14 UTC] PHP Parse error:  syntax error, unexpected 'setlocale' (T_STRING) in /home/uniwebro/public_html/util/config.php on line 23
+[25-Aug-2018 18:24:16 UTC] PHP Parse error:  syntax error, unexpected 'setlocale' (T_STRING) in /home/uniwebro/public_html/util/config.php on line 23
+[25-Aug-2018 21:51:34 Europe/Bucharest] PHP Fatal error:  Call to undefined function stringToUpper() in /home/uniwebro/public_html/util/header.php on line 11
+[25-Aug-2018 21:52:35 Europe/Bucharest] PHP Fatal error:  Call to undefined function stringToUpper() in /home/uniwebro/public_html/util/header.php on line 11
+[26-Aug-2018 20:56:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uniwebro/public_html/upload.php on line 54
+[26-Aug-2018 20:56:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uniwebro/public_html/upload.php on line 54
+[27-Aug-2018 20:01:08 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:01:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:01:28 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:01:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:02:09 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:02:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:03:10 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:03:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:03:21 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:03:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:04:11 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:04:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:04:22 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:04:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/index.php:6) in /home/uniwebro/public_html/index.php on line 7
+[27-Aug-2018 20:23:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/uniwebro/public_html/index.php on line 63
+[27-Aug-2018 20:29:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/uniwebro/public_html/index.php on line 54
+[27-Aug-2018 20:29:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/index.php on line 75
+[28-Aug-2018 00:07:10 Europe/Bucharest] PHP Fatal error:  Call to undefined function isLogged() in /home/uniwebro/public_html/index.php on line 70
+[28-Aug-2018 00:07:44 Europe/Bucharest] PHP Fatal error:  Call to undefined function isLogged() in /home/uniwebro/public_html/index.php on line 70
+[28-Aug-2018 00:07:52 Europe/Bucharest] PHP Fatal error:  Call to undefined function isLogged() in /home/uniwebro/public_html/index.php on line 70
+[27-Aug-2018 21:13:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/uniwebro/public_html/index.php on line 96
+[27-Aug-2018 21:14:05 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/uniwebro/public_html/index.php on line 96
+[27-Aug-2018 21:14:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/uniwebro/public_html/index.php on line 96
+[28-Aug-2018 00:16:05 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 97
+[28-Aug-2018 00:16:09 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 97
+[28-Aug-2018 00:18:01 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 97
+[28-Aug-2018 00:18:14 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 97
+[28-Aug-2018 00:25:02 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 97
+[27-Aug-2018 21:25:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 21
+[27-Aug-2018 21:25:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 21
+[27-Aug-2018 21:26:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 21
+[27-Aug-2018 21:26:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:16) in /home/uniwebro/public_html/index.php on line 21
+[27-Aug-2018 21:27:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:18) in /home/uniwebro/public_html/index.php on line 23
+[28-Aug-2018 07:28:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:18) in /home/uniwebro/public_html/index.php on line 23
+[28-Aug-2018 08:27:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:20) in /home/uniwebro/public_html/index.php on line 25
+[28-Aug-2018 08:39:36 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:39:36 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:39:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_htmlconnection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:00 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:00 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_htmlconnection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:01 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:01 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_htmlconnection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:37 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:37 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_htmlconnection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:40 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:40 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_htmlconnection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:46 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:46 UTC] PHP Warning:  require(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:40:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_htmlconnection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:46 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:46 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html/connection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:48 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:48 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html/connection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:50 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:50 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html/connection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:51 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:51 UTC] PHP Warning:  require(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 08:41:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html/connection.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 11:42:02 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html../util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 11:42:02 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html../util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 11:42:02 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html../util/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 11:42:50 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html/../util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 11:42:50 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html/../util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 11:42:50 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html/../util/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 08:45:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:20) in /home/uniwebro/public_html/index.php on line 25
+[28-Aug-2018 08:56:29 UTC] PHP Warning:  require(/util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 08:56:29 UTC] PHP Warning:  require(/util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 08:56:29 UTC] PHP Fatal error:  require(): Failed opening required '/util/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 08:57:59 UTC] PHP Warning:  require_once(/util/header.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 30
+[28-Aug-2018 08:57:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/util/header.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 30
+[28-Aug-2018 08:58:07 UTC] PHP Warning:  require_once(/util/header.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 30
+[28-Aug-2018 08:58:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/util/header.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 30
+[28-Aug-2018 09:46:17 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:46:17 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:46:17 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:46:17 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 09:46:17 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconnection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 09:46:17 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconnection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 21
+[28-Aug-2018 09:48:19 UTC] PHP Warning:  include(/home/uniwebro/public_htmlutil/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:48:19 UTC] PHP Warning:  include(/home/uniwebro/public_htmlutil/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:48:19 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlutil/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:49:20 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:49:20 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:49:20 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:50:21 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:50:21 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:50:21 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:51:22 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:51:22 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:51:22 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:52:23 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:52:23 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:52:23 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:52:23 UTC] PHP Warning:  include(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 22
+[28-Aug-2018 09:52:23 UTC] PHP Warning:  include(/home/uniwebro/public_html/connection.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/config.php on line 22
+[28-Aug-2018 09:52:23 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_html/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/config.php on line 22
+[28-Aug-2018 09:57:00 UTC] PHP Warning:  include(/util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:57:00 UTC] PHP Warning:  include(/util/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:57:00 UTC] PHP Warning:  include(): Failed opening '/util/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:57:00 UTC] PHP Warning:  require(/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 138
+[28-Aug-2018 09:57:00 UTC] PHP Warning:  require(/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 138
+[28-Aug-2018 09:57:00 UTC] PHP Fatal error:  require(): Failed opening required '/util/footer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/inregistrare.php on line 138
+[28-Aug-2018 09:57:41 UTC] PHP Warning:  include(/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:57:41 UTC] PHP Warning:  include(/config.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:57:41 UTC] PHP Warning:  include(): Failed opening '/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:57:41 UTC] PHP Warning:  require(/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 138
+[28-Aug-2018 09:57:41 UTC] PHP Warning:  require(/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 138
+[28-Aug-2018 09:57:41 UTC] PHP Fatal error:  require(): Failed opening required '/util/footer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/inregistrare.php on line 138
+[28-Aug-2018 09:58:23 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:58:23 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:58:23 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:58:30 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:58:30 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:58:30 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:59:31 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:59:31 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:59:31 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:59:54 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:59:54 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 09:59:54 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:00:32 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:00:32 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:00:32 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:09 UTC] PHP Warning:  require(/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 139
+[28-Aug-2018 10:01:09 UTC] PHP Warning:  require(/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 139
+[28-Aug-2018 10:01:09 UTC] PHP Fatal error:  require(): Failed opening required '/util/footer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/inregistrare.php on line 139
+[28-Aug-2018 10:01:32 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:32 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:32 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:33 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:33 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:33 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:35 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:35 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:01:35 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:02:34 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:02:34 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:02:34 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:02:36 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:02:36 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:02:36 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:03:35 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:03:35 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:03:35 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:03:36 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:03:36 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:03:36 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:04:36 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:04:36 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:04:36 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:04:37 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:04:37 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:04:37 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:05:06 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:05:06 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:05:06 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:05:37 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:05:37 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:05:37 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:06:38 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:06:38 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:06:38 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:07:39 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:07:39 UTC] PHP Warning:  include(/home/uniwebro/public_htmlconfig.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 10:07:39 UTC] PHP Warning:  include(): Failed opening '/home/uniwebro/public_htmlconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/util/header.php on line 3
+[28-Aug-2018 13:09:41 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 13:10:42 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 13:11:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 13:11:43 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 13:11:43 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 13:13:54 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:19) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 13:13:54 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:19) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 13:23:10 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 13:23:10 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 13:24:26 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 13:24:26 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 10:25:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 91
+[28-Aug-2018 10:25:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 91
+[28-Aug-2018 10:25:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 93
+[28-Aug-2018 10:25:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 94
+[28-Aug-2018 10:25:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uniwebro/public_html/index.php on line 96
+[28-Aug-2018 13:25:03 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:91) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 13:26:06 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 13:26:06 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 10:28:41 UTC] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING) in /home/uniwebro/public_html/index.php on line 26
+[28-Aug-2018 10:29:02 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 10:29:04 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 10:29:33 UTC] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING) in /home/uniwebro/public_html/index.php on line 26
+[28-Aug-2018 10:29:42 UTC] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/uniwebro/public_html/index.php on line 26
+[28-Aug-2018 13:30:22 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 13:30:22 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/util/config.php:11) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 10:34:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:19) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 10:36:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:19) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 10:51:01 UTC] PHP Fatal error:  Call to undefined function doLogin() in /home/uniwebro/public_html/index.php on line 8
+[28-Aug-2018 10:58:56 UTC] PHP Fatal error:  Call to undefined function doLogin() in /home/uniwebro/public_html/index.php on line 8
+[28-Aug-2018 10:59:01 UTC] PHP Fatal error:  Call to undefined function doLogin() in /home/uniwebro/public_html/index.php on line 8
+[28-Aug-2018 10:59:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:11) in /home/uniwebro/public_html/index.php on line 24
+[28-Aug-2018 11:08:34 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/uniwebro/public_html/index.php on line 95
+[28-Aug-2018 15:04:49 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 15:05:04 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/util/footer.php on line 3
+[28-Aug-2018 21:05:15 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/uniwebro/public_html/index.php on line 91
+[28-Aug-2018 21:16:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/uniwebro/public_html/index.php on line 97
+[28-Aug-2018 21:54:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/index.php on line 109
+[28-Aug-2018 22:31:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:92) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 22:32:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:92) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 22:32:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:92) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 22:34:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:94) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 22:35:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:97) in /home/uniwebro/public_html/index.php on line 9
+[28-Aug-2018 22:35:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/uniwebro/public_html/index.php on line 100
+[28-Aug-2018 22:45:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/index.php:94) in /home/uniwebro/public_html/index.php on line 9
+[29-Aug-2018 09:13:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uniwebro/public_html/index.php on line 120
+[29-Aug-2018 12:14:40 Europe/Bucharest] PHP Fatal error:  Function name must be a string in /home/uniwebro/public_html/index.php on line 37
+[29-Aug-2018 12:15:36 Europe/Bucharest] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/uniwebro/public_html/index.php on line 39
+[29-Aug-2018 12:16:36 Europe/Bucharest] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/uniwebro/public_html/index.php on line 39
+[29-Aug-2018 12:17:37 Europe/Bucharest] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/uniwebro/public_html/index.php on line 39
+[29-Aug-2018 09:47:38 UTC] PHP Parse error:  syntax error, unexpected '$cnp' (T_VARIABLE) in /home/uniwebro/public_html/inregistrare.php on line 172
+[29-Aug-2018 09:48:06 UTC] PHP Parse error:  syntax error, unexpected '$telefon' (T_VARIABLE) in /home/uniwebro/public_html/inregistrare.php on line 172
+[29-Aug-2018 11:06:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uniwebro/public_html/inregistrare.php on line 191
+[29-Aug-2018 11:27:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/uniwebro/public_html/inregistrare.php on line 156
+[29-Aug-2018 12:08:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/uniwebro/public_html/test.php on line 25
+[29-Aug-2018 12:16:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/test.php on line 7
+[29-Aug-2018 12:25:40 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/uniwebro/public_html/test.php on line 16
+[29-Aug-2018 16:10:17 Europe/Bucharest] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/inregistrare.php:7) in /home/uniwebro/public_html/inregistrare.php on line 172
+[29-Aug-2018 13:16:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 18
+[29-Aug-2018 13:17:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 19
+[29-Aug-2018 13:36:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 20
+[29-Aug-2018 13:36:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/inregistrare.php:20) in /home/uniwebro/public_html/inregistrare.php on line 34
+[29-Aug-2018 13:38:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 20
+[29-Aug-2018 13:38:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/inregistrare.php:20) in /home/uniwebro/public_html/inregistrare.php on line 34
+[29-Aug-2018 13:40:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 21
+[29-Aug-2018 13:40:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uniwebro/public_html/inregistrare.php:21) in /home/uniwebro/public_html/inregistrare.php on line 35
+[29-Aug-2018 13:48:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 26
+[29-Aug-2018 13:49:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 27
+[29-Aug-2018 13:50:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 28
+[29-Aug-2018 14:30:50 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/uniwebro/public_html/inregistrare.php on line 27
+[29-Aug-2018 14:42:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/inregistrare.php on line 10
+[29-Aug-2018 15:08:48 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/uniwebro/public_html/inregistrare.php on line 24
+[29-Aug-2018 15:11:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/uniwebro/public_html/inregistrare.php on line 23
+[29-Aug-2018 15:11:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uniwebro/public_html/inregistrare.php on line 23
+[29-Aug-2018 15:11:24 UTC] PHP Fatal error:  Call to undefined function checkUser() in /home/uniwebro/public_html/inregistrare.php on line 27
+[29-Aug-2018 15:13:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/uniwebro/public_html/inregistrare.php on line 23
+[29-Aug-2018 15:13:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/uniwebro/public_html/inregistrare.php on line 24
+[29-Aug-2018 15:13:35 UTC] PHP Fatal error:  Call to undefined function checkUser() in /home/uniwebro/public_html/inregistrare.php on line 28
+[29-Aug-2018 15:14:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/uniwebro/public_html/inregistrare.php on line 23
+[29-Aug-2018 15:14:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/uniwebro/public_html/inregistrare.php on line 24
+[29-Aug-2018 15:14:22 UTC] PHP Fatal error:  Call to undefined function checkUser() in /home/uniwebro/public_html/inregistrare.php on line 28
+[29-Aug-2018 15:58:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 97
+[29-Aug-2018 15:58:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 98
+[29-Aug-2018 15:58:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 101
+[29-Aug-2018 15:58:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/uniwebro/public_html/index.php on line 102
+[29-Aug-2018 15:58:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/uniwebro/public_html/index.php on line 104
+[29-Aug-2018 17:39:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uniwebro/public_html/regtest.php on line 12
+[29-Aug-2018 17:41:04 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uniwebro/public_html/regtest.php on line 13
+[29-Aug-2018 17:41:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uniwebro/public_html/regtest.php on line 13
+[29-Aug-2018 17:47:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/uniwebro/public_html/regtest.php on line 14
+[29-Aug-2018 17:56:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/uniwebro/public_html/regtest.php on line 12
+[29-Aug-2018 17:56:06 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/uniwebro/public_html/regtest.php on line 13
+[29-Aug-2018 18:11:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/uniwebro/public_html/regtest.php on line 12
+[29-Aug-2018 18:11:24 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/uniwebro/public_html/regtest.php on line 13
+[29-Aug-2018 18:12:33 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/uniwebro/public_html/regtest.php on line 13
+[29-Aug-2018 18:13:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/uniwebro/public_html/regtest.php on line 14
+[29-Aug-2018 18:13:30 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/uniwebro/public_html/regtest.php on line 14
+[29-Aug-2018 18:14:02 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/uniwebro/public_html/regtest.php on line 14
+[29-Aug-2018 18:29:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/uniwebro/public_html/inregistrare.php on line 40
+[29-Aug-2018 18:52:27 UTC] PHP Parse error:  syntax error, unexpected '$SESSION' (T_VARIABLE) in /home/uniwebro/public_html/index.php on line 111
+[29-Aug-2018 21:57:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/uniwebro/public_html/index.php on line 49
+[31-Aug-2018 01:19:59 Europe/Bucharest] PHP Warning:  include(/home/uniwebro/public_html/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 128
+[31-Aug-2018 01:19:59 Europe/Bucharest] PHP Warning:  include(/home/uniwebro/public_html/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/index.php on line 128
+[31-Aug-2018 01:19:59 Europe/Bucharest] PHP Warning:  include(): Failed opening '/home/uniwebro/public_html/util/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/index.php on line 128
+[31-Aug-2018 15:24:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uniwebro/public_html/inregistrare.php:45) in /home/uniwebro/public_html/util/header.php on line 2
+[31-Aug-2018 18:24:42 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 186
+[31-Aug-2018 18:24:42 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 186
+[31-Aug-2018 18:24:42 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html/util/footer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/inregistrare.php on line 186
+[31-Aug-2018 18:26:06 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 187
+[31-Aug-2018 18:26:06 Europe/Bucharest] PHP Warning:  require(/home/uniwebro/public_html/util/footer.php): failed to open stream: No such file or directory in /home/uniwebro/public_html/inregistrare.php on line 187
+[31-Aug-2018 18:26:06 Europe/Bucharest] PHP Fatal error:  require(): Failed opening required '/home/uniwebro/public_html/util/footer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uniwebro/public_html/inregistrare.php on line 187
+[31-Aug-2018 21:10:21 Europe/Bucharest] PHP Warning:  mysqli_query(): Empty query in /home/uniwebro/public_html/util/header.php on line 25

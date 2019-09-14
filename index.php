@@ -1,0 +1,135 @@
+<?php
+	session_start();
+	session_destroy();
+	
+	session_start();
+	
+	global $conn;
+	
+	require ($_SERVER["DOCUMENT_ROOT"] .'/util/connection.php');//"util/connection.php";
+	if(isset($_POST["submit"])) {
+		$emailU = $_REQUEST["email"];
+		$parolaU =  $_REQUEST["parola"];
+		
+		if (logare($emailU, $parolaU)){
+			header('location: ../main/index.php');
+		}else
+		echo "<div class=\"text-muted text-center alert-danger\">Datele de autentificare sunt incorecte sau contul nu a fost inca validat. Incercati mai tarziu.</div>";
+	}
+	
+?>
+<!DOCTYPE html>
+<html lang="ro" dir="ltr">
+	
+	<head>
+		<?php
+			
+			
+			require_once "util/header.php";
+		?>
+		
+	</head>
+	
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-9 text-center mx-auto">
+				<h4>Statistici Uni-Web.Ro</h4>
+				<?php
+					/* $utilizatoriSql="SELECT count(Id) as users from utilizatori";
+						$rezultatUtilizatori= mysqli_query($conn,$utilizatoriSql);
+						if(mysqli_num_rows($rezultatUtilizatori)) {
+						echo "<div> Utilizatori inregistrati: ".$row['users']." </div>";
+					} */
+					// $utilizatoriSql = "SELECT COUNT(Id) AS users from utilizatori";
+					// $resultU = mysqli_query($conn, $utilizatoriSql) or die("Bad query: $utilizatoriSql");
+					// $valuesU=mysqli_fetch_assoc($resultU);
+					// $num_rowsU=$valuesU['users'];
+					// echo "<div><span style=\"color:#0087ff;\" class=\"glyphicon glyphicon-user\"></span> Utilizatori inregistrati: ".$num_rowsU." </div>";
+					
+				?>
+				<div><span style="color:#a3c95a;" class="glyphicon glyphicon-picture"></span> Poze adaugate: # in # albume</div>
+				<div>Postari in forum: #</div>
+				<div>Topicuri create: #</div>
+				<div><span style="color:#0087ff;" class="glyphicon glyphicon-download"></span>Elemente la descarcari: #</div>
+				<img class="hr" src="../res/divider5.png" style="width:50%;">
+				<div class=""><a href="inregistrare.php">Ma inregistrez</a></div>
+				<img class="hr" src="../res/divider5.png" style="width:50%;">
+				
+			</div>
+		</div>
+		<form action="index.php" class="needs-validation" method="POST">
+			<div class="row">
+				<div class="col-xs-9 text-center mx-auto">
+					<div class="loginForm">
+						<div class="form-group">
+							<label for="email">E-mail: </label>
+							<input type="email" name="email" value="" class="loginInput" required>
+						</div>
+						<div>
+							<label for="parola" >Parola: </label>
+							<input type="password" name="parola" value="" class="loginInput" required>
+						</div>
+						<div class="small"> <a href="resetareParola.php">Resetare parola </a></div>
+						<input type="submit" name="submit" value="Logare" class="loginInput">
+					</div>
+					<img class="hr" src="../res/divider6.png">
+					
+					<!-- <a href="upload.php">Upload something</a>-->
+				</div>
+			</div>
+		</form>
+	</div>
+	
+	<div class="myHr"></div>
+	<script>
+		
+		var form = document.querySelector('.needs-validation');
+		
+		form.addEventListener('submit', function(event) {
+			if (form.checkValidity() === false) {
+				event.preventDefault();
+				event.stopPropagation();
+			}
+			form.classList.add('was-validated');
+		})
+	</script>
+	
+	<?php
+		function logare($email, $parola){
+			$logat = FALSE;
+			global $conn;
+			$sql = sprintf("SELECT id, email, parola, username, validat FROM utilizatori WHERE email='%s' AND parola= md5('%s')",
+			mysqli_real_escape_string($conn, $email),
+			mysqli_real_escape_string($conn, $parola)
+			);
+			//echo "Query: $sql <br>";
+			if (!($result = mysqli_query($conn, $sql))){
+				echo('Error: ' . mysqli_error($conn));
+			}
+			
+			if ($row=mysqli_fetch_array($result)){
+				$va=$row["validat"];
+				if($va=="1" ){
+					$logat = TRUE;
+					$_SESSION['id_user']=$row['id'];
+					$_SESSION['user'] = $email;
+					$_SESSION['logat'] = TRUE;
+					$_SESSION['username']=$row['username'];
+				}
+				
+			}
+			return $logat;
+			echo "logat";
+		}
+		
+		if(isset($_SESSION['username'])&& isset($_SESSION['id_user'])){
+			$idUser=$_SESSION['id_user'];
+			$user= $_SESSION['username'];
+			$sqlUsCon="UPDATE utilizatori SET conectat=1 WHERE id=$idUser";
+			mysqli_query($conn, $sqlUsCon);
+		}
+		
+	?>
+	
+</html>
